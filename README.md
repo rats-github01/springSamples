@@ -36,3 +36,14 @@ $git status
 $git remote add origin https://github.com/rats-github01/springSamples.git
 $git status
 $git push origin master
+
+Pulling from remote to local : 
+PS D:\workspace\contextShutdownHook> git pull origin master
+From https://github.com/rats-github01/springSamples
+ * branch            master     -> FETCH_HEAD
+Merge made by the 'recursive' strategy.
+ README.md | 38 ++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 38 insertions(+)
+ create mode 100644 README.md
+PS D:\workspace\contextShutdownHook>
+/***********************************************/
